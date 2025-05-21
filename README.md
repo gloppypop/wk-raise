@@ -1,7 +1,7 @@
 # WK Performance Analysis
 
 ## Overview
-This repository contains Python scripts for analyzing and calculating key performance metrics for "WK" services. These scripts process encounter data stored in CSV files, filter non-billable entries, compute revenue based on predefined billing rates, and track total client service hours.
+This repository contains Python scripts for analyzing and calculating key performance metrics for "WK" services. These scripts process encounter data stored in CSV files, filter non-billable entries, compute revenue based on predefined billing rates, and track total client service hours. This analysis was used to advocate for and secure over a 10% raise for said employee.
 
 ## Features
 - **Revenue Calculation:** Computes revenue across different service types using predefined billing rates.
